@@ -57,7 +57,7 @@ body {
 
 .publication-venue {
     color: #555;
-    width: fit-content;
+    /* width: fit-content; */
     font-weight: bold;
 }
 
@@ -154,10 +154,4 @@ body {
 }
 #interpolation-image-wrapper img {
   border-radius: 5px;
-}
-
-.venue {
-    font-size: large;
-    font-weight: bold;
-    color: #414141;
 }
