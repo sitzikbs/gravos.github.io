@@ -155,3 +155,9 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.venue {
+    font-size: x-large;
+    /* font-weight: bold; */
+    color: #414141;
+}
