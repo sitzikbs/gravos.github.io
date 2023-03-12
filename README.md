@@ -1,6 +1,6 @@
 # GraVoS
 
-This is the repository that contains source code for the [GraVoS website](https://gravos.github.io).
+This is the repository that contains source code for the [GraVoS website](https://sitzikbs.github.io/gravos.github.io/).
 
 If you find GraVos useful for your work please cite:
 ```
